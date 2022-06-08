@@ -109,6 +109,7 @@ li {
     background: black;
     border: 1px solid red;
     color: aqua;
+    
 }
 #area-quinta{
     margin: 5% auto;
@@ -125,6 +126,18 @@ li {
     background: black;
     border: 1px solid red;
 }
+
+#area-slide{
+    margin: 5% auto;
+    width: 80%;
+    text-align: left;
+    background: black;
+    border: 1px solid red;
+}
+#artigos{
+    
+}
+
 #zap {
     margin-left: 40%;
     width: 100px;
